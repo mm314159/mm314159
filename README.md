@@ -24,3 +24,4 @@ Fix broken link
 Improve error handling
 Change theme color
 Update API endpoint
+Update API endpoint
