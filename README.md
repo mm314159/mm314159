@@ -21,3 +21,4 @@ Add new utility script
 Update API endpoint
 Update dependencies
 Fix broken link
+Improve error handling
